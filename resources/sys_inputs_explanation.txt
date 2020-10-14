@@ -1,0 +1,48 @@
+physical characteristics
+###################################################
+line 1  |  G constant [ km^3/(kg*sec^2) ]
+line 2  |  M1 [kg]
+line 3  |  M2 [kg]
+
+line 4  |  a1 semi-axis  [km]
+line 5  |  b1 semi-axis  [km]
+line 6  |  c1 semi-axis  [km]
+
+line 7  |  a2 semi-axis  [km]
+line 8  |  b2 semi-axis  [km]
+line 9  |  c2 semi-axis  [km]
+###################################################
+
+periods of motions
+###################################################
+line 10  | Torb binary orbital period    [sec]
+line 11  | Tpri primary rotation period  [sec]
+###################################################
+
+initial conditions of the ODEs
+###################################################
+line 12  |  r       [km]
+line 13  |  thita   [rad]
+line 14  |  phi1    [rad]
+line 15  |  phi2    [rad]
+line 16  |  vr      [km/sec]
+line 17  |  vthita  [rad/sec]
+line 18  |  vphi1   [rad/sec]
+line 19  |  vphi2   [rad/sec]
+###################################################
+
+time parameters
+###################################################
+line 20  |  t0    [sec]
+line 21  |  tmax  [sec]
+line 22  |  dt    [sec]
+
+for the calculation of the cost function J
+###################################################
+line 23  |  grid r0         [km]
+line 24  |  grid rmax       [km]
+line 25  |  grid dr         [km]
+line 26  |  grid vthita0    [rad/sec]
+line 27  |  grid vthitamax  [rad/sec]
+line 28  |  grid dvthita    [rad/sec]
+###################################################
