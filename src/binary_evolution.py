@@ -98,7 +98,7 @@ def dV_dphi2(r,phi2):
 
 #8 odes in total
 def odes(t,vec):
-    #extrac the vec[] components into human readable symbols for simplicity
+    #extract the vec[] components into human readable symbols for simplicity
     r = vec[0]
     thita = vec[1]
     phi1 = vec[2]
