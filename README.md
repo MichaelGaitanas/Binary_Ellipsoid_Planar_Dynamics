@@ -15,6 +15,7 @@ The parent directory contains the following directories:
 
 
 ==================================== [src] ====================================
+
 This is where all main calculations take place.
 
 1) binary_evolution.py
