@@ -2,7 +2,6 @@
 #include<iomanip>
 #include<fstream>
 #include<cmath>
-#include<ctime>
 #include<boost/array.hpp>
 #include<boost/numeric/odeint.hpp>
 
